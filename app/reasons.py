@@ -5,4 +5,5 @@ REASONS = {
     'DUPLICATE': '同站同刻重复读数', 'SHADOWED': '同刻采用优先级更高的站',
     'OVER_GAP': '相邻有效读数间隔超过断面上限', 'NO_BRACKET': '断面缺少双侧读数',
     'UNDER_DEPTH': '至少一处断面低于放行水深', 'DEPTH_OK': '所有断面均达到放行水深',
+    'CLEARANCE_OK': '桥下净空达到水上船高', 'UNDER_CLEARANCE': '桥下净空不足，抬高船身将卡桥',
 }
